@@ -214,6 +214,19 @@ public class FileLogging
 
 
     /** 
+     *  \brief Simple logging method for basic messages with optional caller identification.
+     *
+     *  Writes a simple message to the log file with minimal overhead.
+     *
+     *  @param msg      The message to write to the log file.
+     *  @param caller   Optional caller identification for tracking purposes.
+     */
+    public static void WriteLog(string msg, string caller = "General")
+    {
+        FsWriteLog(AppGuid, LogType.Info, msg, caller, new List<DataState>(), "System");
+    }
+
+    /** 
      *  \brief Writes the message to the log file without throwing an exception.
      *
      *  Writes the message to the log file.

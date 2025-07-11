@@ -1,0 +1,105 @@
+===========================================================
+USD CURRENCY MONITORING SYSTEM - COMPREHENSIVE REPORT
+===========================================================
+Report Generated: 2025-07-11 14:45:38
+Analysis Period: 2024-01-01 to 2025-07-11
+Monitored Currencies: NZD, AUD, GBP, CAD, EUR, NOK, SEK
+
+CURRENT EXCHANGE RATES
+======================
+1 USD = 1.6046 NZD (as of 2025-07-11)
+1 USD = 1.5908 AUD (as of 2025-07-11)
+1 USD = 0.7720 GBP (as of 2025-07-11)
+1 USD = 1.2609 CAD (as of 2025-07-11)
+1 USD = 0.9141 EUR (as of 2025-07-11)
+1 USD = 10.7016 NOK (as of 2025-07-11)
+1 USD = 10.4505 SEK (as of 2025-07-11)
+
+TREND ANALYSIS
+==============
+Currency Performance Summary:
+-----------------------------
+USD/AUD: ↗ STRENGTHENING (+6.46%)
+  Start Rate: 1.4943
+  End Rate: 1.5908
+  Range: 1.4056 - 1.6578
+  Average: 1.5483
+  Volatility: 16.29%
+
+USD/GBP: ↗ STRENGTHENING (+2.82%)
+  Start Rate: 0.7508
+  End Rate: 0.7720
+  Range: 0.7236 - 0.8333
+  Average: 0.7826
+  Volatility: 14.02%
+
+USD/EUR: ↗ STRENGTHENING (+2.77%)
+  Start Rate: 0.8895
+  End Rate: 0.9141
+  Range: 0.8413 - 0.9813
+  Average: 0.9202
+  Volatility: 15.21%
+
+USD/NOK: ↗ STRENGTHENING (+1.50%)
+  Start Rate: 10.5436
+  End Rate: 10.7016
+  Range: 9.8825 - 11.5385
+  Average: 10.7994
+  Volatility: 15.33%
+
+USD/SEK: ↘ WEAKENING (-2.66%)
+  Start Rate: 10.7356
+  End Rate: 10.4505
+  Range: 9.5861 - 11.2139
+  Average: 10.5335
+  Volatility: 15.45%
+
+USD/NZD: ↘ WEAKENING (-4.36%)
+  Start Rate: 1.6777
+  End Rate: 1.6046
+  Range: 1.4981 - 1.7657
+  Average: 1.6521
+  Volatility: 16.20%
+
+USD/CAD: ↘ WEAKENING (-6.81%)
+  Start Rate: 1.3531
+  End Rate: 1.2609
+  Range: 1.2312 - 1.4444
+  Average: 1.3498
+  Volatility: 15.79%
+
+PERFORMANCE RANKINGS
+====================
+USD Strengthening Against:
+--------------------------
+1. AUD: +6.46%
+2. GBP: +2.82%
+3. EUR: +2.77%
+4. NOK: +1.50%
+
+USD Weakening Against:
+----------------------
+1. CAD: -6.81%
+2. NZD: -4.36%
+3. SEK: -2.66%
+
+SIGNIFICANT EVENTS
+==================
+Date: 2024-08-04
+Event: Significant Market Event - Economic Policy Announcement
+Type: Economic Policy
+Affected Currencies: NZD, AUD, GBP, CAD, EUR, NOK, SEK
+
+MARKET ANALYSIS
+===============
+Average Market Volatility: 15.47%
+Strongest Performer: AUD (+F2%)
+Weakest Performer: CAD (-6.81%)
+
+Market Conditions:
+- Stable currencies (< 1% change): 0
+- Volatile currencies (> 5% volatility): 7
+
+===========================================================
+END OF REPORT
+===========================================================
